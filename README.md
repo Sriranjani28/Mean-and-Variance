@@ -1,3 +1,7 @@
+# Exp:01 
+
+# Date: 
+
 #  Mean and variance of a discrete  distribution
 
 
